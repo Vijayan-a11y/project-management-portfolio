@@ -95,6 +95,8 @@ Feel free to use and modify this portfolio for your personal or commercial proje
 🤝 Contributing
 Suggestions and improvements are welcome! Feel free to fork this repository and submit pull requests.
 📧 Contact
+Copyright (c) 2026 Vijayan
 For questions or feedback, please open an issue in this repository.
----
+---## 📜 License
+This project is licensed under the MIT License.
 Made with ❤️ for better project management
